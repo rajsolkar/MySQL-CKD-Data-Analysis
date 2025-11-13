@@ -1,10 +1,10 @@
 # MySQL-CKD-Data-Analysis
 
-#Project Overview:
+# Project Overview:
 
 This project demonstrates data analysis and reporting using SQL on a structured dataset. The goal was to extract meaningful insights, identify trends, and support data-driven decision-making.
 
-#Key Features:
+# Key Features:
 
 Data Extraction & Querying: Wrote complex SQL queries using JOINs, GROUP BY, subqueries, and aggregate functions to extract insights.
 
@@ -14,14 +14,14 @@ Reporting & Visualization: Summarized findings and presented insights through a 
 
 Performance Optimization: Optimized queries for faster execution on large datasets.
 
-#Tools & Technologies:
+# Tools & Technologies:
 
 SQL (MySQL/PostgreSQL/SQL Server – specify which you used)
 
 Microsoft PowerPoint / PDF for presenting results
 
 
-#Learning Outcomes:
+# Learning Outcomes:
 
 Strengthened skills in database querying, data aggregation, and analysis.
 
